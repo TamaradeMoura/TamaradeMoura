@@ -8,14 +8,20 @@ HTML
 
 CSS
 
-Javascript 
+Javascript , JQuery
 
 Desenvolvimento Web Responsivo
-
-bibliotecas Javascrip
 
 Figma
 
 Frameworks (Bootstrap)
+
+SASS
+
+LESS
+
+BEM
+
+GRUNT, GULP
 
 
