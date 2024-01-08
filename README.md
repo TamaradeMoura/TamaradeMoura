@@ -14,7 +14,7 @@ Desenvolvimento Web Responsivo
 
 Figma
 
-Frameworks (Bootstrap)
+Bootstrap
 
 SASS
 
@@ -25,5 +25,11 @@ BEM
 GRUNT, GULP
 
 ES6+
+
+ReactJs
+
+VueJs
+
+TypeScript
 
 
