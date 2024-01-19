@@ -21,6 +21,10 @@ GRUNT, GULP
 
 ES6+
 
+UI / UX
+
+OOJS
+
 
 # As linguagens que utilizo são: 
 
